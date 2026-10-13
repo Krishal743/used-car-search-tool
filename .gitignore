@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+frontend/package-lock.json
+frontend/dist/
+data/*
+!data/.gitkeep
+.env
+.env.*
+!.env.example
+*.log
